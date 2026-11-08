@@ -1,4 +1,4 @@
-# Laptop-Optimizer-BIM ⚡💻
+# Optimum_WWindows ⚡💻
 
 > **Optimizador, Reparador y Suite de Rendimiento para Portátiles con Windows 10 y 11**  
 > *Diseñado especialmente para estaciones de trabajo móviles de Arquitectura, Modelado BIM (Autodesk Revit, pyRevit), IA y cálculo pesado.*
@@ -6,6 +6,7 @@
 [![Windows](https://img.shields.io/badge/Plataforma-Windows%2010%20%7C%2011-0078D6?logo=windows)](https://www.microsoft.com)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%2B-5391FE?logo=powershell)](https://github.com/PowerShell/PowerShell)
 [![License: MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-xycnww%2FOptimum__WWindows-blue?logo=github)](https://github.com/xycnww/Optimum_WWindows)
 [![Revit](https://img.shields.io/badge/Autodesk-Revit%202022--2027-red?logo=autodesk)](https://www.autodesk.com/revit)
 [![Portable](https://img.shields.io/badge/Modo-100%25%20Portable%20%2F%20USB-orange)](#modo-de-uso-y-despliegue)
 
