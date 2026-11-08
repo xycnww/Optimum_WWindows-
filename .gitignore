@@ -1,0 +1,19 @@
+# Informes generados de auditoria de equipos
+Informes_Equipos/*.txt
+!Informes_Equipos/.gitkeep
+
+# Archivos temporales de ejecucion
+*.tmp
+*.log
+*.bak
+*.dmp
+
+# Descargas pesadas o binarios de terceros opcionales
+bin/Sysinternals/
+bin/CrystalDiskInfo/
+bin/NvidiaProfileInspector/
+
+# Entornos y caches de desarrollo
+__pycache__/
+.vscode/
+.idea/
